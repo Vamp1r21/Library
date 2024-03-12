@@ -1,0 +1,10 @@
+C:\Users\Vampir\source\repos\LibraryV2.0\LibraryV2.0\bin\Debug\LibraryV2.0.exe.config
+C:\Users\Vampir\source\repos\LibraryV2.0\LibraryV2.0\bin\Debug\LibraryV2.0.exe
+C:\Users\Vampir\source\repos\LibraryV2.0\LibraryV2.0\bin\Debug\LibraryV2.0.pdb
+C:\Users\Vampir\source\repos\LibraryV2.0\LibraryV2.0\obj\Debug\LibraryV2.0.csproj.AssemblyReference.cache
+C:\Users\Vampir\source\repos\LibraryV2.0\LibraryV2.0\obj\Debug\LibraryV2._0.InformationForm.resources
+C:\Users\Vampir\source\repos\LibraryV2.0\LibraryV2.0\obj\Debug\LibraryV2._0.Properties.Resources.resources
+C:\Users\Vampir\source\repos\LibraryV2.0\LibraryV2.0\obj\Debug\LibraryV2.0.csproj.GenerateResource.cache
+C:\Users\Vampir\source\repos\LibraryV2.0\LibraryV2.0\obj\Debug\LibraryV2.0.csproj.CoreCompileInputs.cache
+C:\Users\Vampir\source\repos\LibraryV2.0\LibraryV2.0\obj\Debug\LibraryV2.0.exe
+C:\Users\Vampir\source\repos\LibraryV2.0\LibraryV2.0\obj\Debug\LibraryV2.0.pdb
